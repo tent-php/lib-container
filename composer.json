@@ -1,0 +1,28 @@
+{
+  "name": "tent/lib-container",
+  "description": "psr container implementation for tentphp",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "yozman",
+      "email": "yozman@sina.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Tent\\LibContainer\\": "src/"
+    }
+  },
+  "homepage": "https://github.com/tentphp/lib-container",
+  "keywords": [
+    "tentphp",
+    "lib-container"
+  ],
+  "license": "MIT",
+  "require": {
+    "psr/container": "1.0.0"
+  },
+  "provide": {
+    "psr/container-implementation": "1.0"
+  }
+}

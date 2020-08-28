@@ -8,6 +8,12 @@ super light, only has 3 public methods.
 - `public function has($id);`
 - `public function register($id, $val);`
 
+## Install
+
+```sh
+composer require tent/lib-container
+```
+
 ## Test
 
 ```sh

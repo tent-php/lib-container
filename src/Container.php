@@ -24,7 +24,7 @@ class Container implements ContainerInterface
         return isset($this->registered[$id]);
     }
 
-    public function register($id, $val)
+    public function register(string $id, $val)
     {
         $this->registered[$id] = $val;
     }

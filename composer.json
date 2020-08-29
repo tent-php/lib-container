@@ -1,6 +1,6 @@
 {
   "name": "tent/lib-container",
-  "description": "psr container implementation for tentphp",
+  "description": "psr container implementation",
   "version": "0.0.1",
   "authors": [
     {

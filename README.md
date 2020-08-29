@@ -1,4 +1,4 @@
-> psr container implementation for tentphp
+> psr container implementation
 
 ## About
 
